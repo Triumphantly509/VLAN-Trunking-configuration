@@ -64,3 +64,12 @@ credit image: Kevin Wallace Training, LLC
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/29733871-3ac1-4a55-b719-530b0381a2be" />
 </div>
+
+### Configuration results on switch0 and switch1
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/44b4123e-d553-45bb-9ca4-751d48b2577c" />
+</div>
+
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/86a0efb0-4ce2-473f-b058-4e152f9245b5" />
+</div>
