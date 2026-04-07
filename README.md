@@ -54,3 +54,13 @@ credit image: Kevin Wallace Training, LLC
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/3d190301-a956-4794-b71a-d9da9ee5e7b9" />
 </div>
+
+### Allow vlan 1-20 on switch 1 / dynamic desirable mode
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/185b4b88-bcd1-4993-9bdd-69c2f164ce78" />
+</div>
+
+### Allow vlan 1-20 on switch 1 / dynamic auto mode
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/29733871-3ac1-4a55-b719-530b0381a2be" />
+</div>
