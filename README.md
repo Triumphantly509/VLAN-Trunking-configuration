@@ -31,3 +31,19 @@ A trunk link carries multiple VLANs between switches.
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/06fd4d1c-c1bf-47e2-ad2e-26848d3d2f2b" />
 </div>
+
+### DTp is on by default on the device
+<div>
+    <img width="600" alt="image" src="https://github.com/user-attachments/assets/59d08b77-f195-4321-be4c-e888934dc11a" />
+</div>
+
+### Dynamic Trunk Protocol
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/af43668c-3eac-402e-820c-3fcc6f245f1c" />
+</div>
+
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/d4b9dcf0-3c8b-4b93-9149-9179fc99d362" />
+</div>
+
+credit image: Kevin Wallace Training, LLC
