@@ -26,3 +26,8 @@ If the link between switches is not configured as trunk, the switch will only ca
 
 ### Trunking configuration
 A trunk link carries multiple VLANs between switches.
+
+### Changing the link between the two switches as a trunk
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/06fd4d1c-c1bf-47e2-ad2e-26848d3d2f2b" />
+</div>
