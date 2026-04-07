@@ -73,3 +73,8 @@ credit image: Kevin Wallace Training, LLC
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/86a0efb0-4ce2-473f-b058-4e152f9245b5" />
 </div>
+
+### End results
+<div>
+  
+</div>
