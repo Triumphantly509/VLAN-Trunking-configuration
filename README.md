@@ -34,11 +34,6 @@
 </div>
 
 ### Create VLAN 1 and VLAN 20 on Switch1 and assign interfaces
-<div></div>
-
-### The issue
-Host in VLAN 1 cannot communicate with the ones in VLan 20
-
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/93cada64-0aa2-4483-9ce0-20ce68dcce6c" />
 </div>
@@ -48,8 +43,11 @@ Host in VLAN 1 cannot communicate with the ones in VLan 20
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/7b8210d1-ea36-46ca-ba35-7573d4b97b00" />
 </div>
 
-### Why some PCS cannot communicate?
-If the link between switches is not configured as trunk, the switch will only carry one VLAN (usually VLAN1).
+### The issue
+PC0 in VLAN 1 on switch0 cannot communicate with PC2 in VLan 1 on switch 1
+
+### Why PCS in the same vlan but different switches cannot communicate?
+If the link between switches is not configured as trunk, the switch will only carry one VLAN (usually VLAN 1).
 
 ### Trunking configuration
 A trunk link carries multiple VLANs between switches.
