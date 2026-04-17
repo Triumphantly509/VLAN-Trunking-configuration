@@ -1,13 +1,37 @@
 # VLAN-Trunking-configuration
 
 ## Objective
-
+To configure VLANs on multiple switches, assign interfaces to the appropriate VLANs, and verify end-to-end connectivity across switches using trunk links.
 
 ## Skills learned
-
+- Configuring and managing VLANs on Cisco switches
+- Assigning access ports to specific VLANs
+- Configuring and verifying trunk links between switches (802.1Q)
+- Understanding VLAN segmentation and broadcast domains
+- Verifying network configurations using CLI commands
+- Troubleshooting VLAN and trunking issues 
+- Validating end-to-end connectivity between devices within the same VLAN across multiple switches
+  
 ## Tools used
+- Cisco Packet Tracer
+- Cisco Switch CLI (IOS)
+- Network simulation environment
 
 ## Commands Practiced
+- enable
+- configure terminal
+- vlan 1, vlan 20
+- name <vlan-name>
+- interface fa0/x
+- switchport mode access
+- switchport access vlan <vlan-id>
+- interface fa0/1
+- switchport mode trunk
+- switchport trunk allowed vlan 1,20
+- show vlan brief
+- show interfaces trunk
+- show interfaces <interface> switchport
+- copy running-config startup-config
 
 ## Lab Topology
 <div>
