@@ -14,6 +14,26 @@
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/1363d58a-7979-4e48-bf12-adb0370ea314" />
 </div>
 
+### Display vlan configuration on switch0
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/a8b6d099-eef5-4afa-a59c-5e2d3ddbbf91" />
+</div>
+
+### Create VLAN 1 and VLAN 20 on Switch0 and assign interfaces
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/b06b8a15-44b7-40e5-8df8-5f7976e1dced" />
+</div>
+
+<div>
+  <img width="600"  alt="image" src="https://github.com/user-attachments/assets/47fad183-b531-40c3-9336-873217d24d18" />
+</div>
+
+### Display vlan configuration on switch1
+<div></div>
+
+### Create VLAN 1 and VLAN 20 on Switch1 and assign interfaces
+<div></div>
+
 ### The issue
 Host in VLAN 1 cannot communicate with the ones in VLan 20
 
@@ -27,7 +47,7 @@ If the link between switches is not configured as trunk, the switch will only ca
 ### Trunking configuration
 A trunk link carries multiple VLANs between switches.
 
-### Changing the link between the two switches as a trunk using Dynamic Trunking Protocol (DTP)
+### Change the link between the two switches as a trunk using Dynamic Trunking Protocol (DTP)
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/06fd4d1c-c1bf-47e2-ad2e-26848d3d2f2b" />
 </div>
