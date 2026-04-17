@@ -29,7 +29,9 @@
 </div>
 
 ### Display vlan configuration on switch1
-<div></div>
+<div>
+  <img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/bbc49520-eadf-4a92-a360-521a686dffcf" />
+</div>
 
 ### Create VLAN 1 and VLAN 20 on Switch1 and assign interfaces
 <div></div>
@@ -38,7 +40,12 @@
 Host in VLAN 1 cannot communicate with the ones in VLan 20
 
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5f53cb09-6182-4d2a-afb1-a704926f8218" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/93cada64-0aa2-4483-9ce0-20ce68dcce6c" />
+</div>
+
+### Result
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/7b8210d1-ea36-46ca-ba35-7573d4b97b00" />
 </div>
 
 ### Why some PCS cannot communicate?
