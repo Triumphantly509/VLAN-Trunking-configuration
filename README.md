@@ -48,8 +48,6 @@ A trunk link carries multiple VLANs between switches.
 
 credit image: Kevin Wallace Training, LLC
 
-### Turning fa0/3 into a trunk
-
 ### fa0/3 interface configuration on Switch 0
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/3d190301-a956-4794-b71a-d9da9ee5e7b9" />
