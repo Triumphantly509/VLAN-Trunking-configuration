@@ -107,6 +107,7 @@ credit image: Kevin Wallace Training, LLC
 </div>
 
 ### End results
+Connectivity has been successfully established between PC1 (VLAN 20) on Switch 0 and PC3 (VLAN 20) on Switch 1.
 <div>
-  
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/c2519f19-5af8-41d5-bfc3-1b69bb72a3dc" />
 </div>
