@@ -45,7 +45,7 @@
 </div>
 
 ### The issue
-PC0 in VLAN 1 on switch0 cannot communicate with PC2 in VLan 1 on switch 1
+PC1 in VLAN 20 on switch0 cannot communicate with PC3 in VLan 20 on switch 1
 
 ### Why PCS in the same vlan but different switches cannot communicate?
 If the link between switches is not configured as trunk, the switch will only carry one VLAN (usually VLAN 1).
