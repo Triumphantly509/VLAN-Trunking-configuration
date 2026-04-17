@@ -65,24 +65,19 @@ credit image: Kevin Wallace Training, LLC
 </div>
 
 
+### fa0/3 interface configuration on Switch 1
+<div>
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/aa41527a-902b-499f-807d-b467cc98e78a" />
+</div>
 
 ### Allow vlan 1-20 on switch 1 / dynamic desirable mode
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/185b4b88-bcd1-4993-9bdd-69c2f164ce78" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/4845bf98-a362-4852-99ff-0b3cf66a3f9a" />
 </div>
 
-### Allow vlan 1-20 on switch 1 / dynamic auto mode
+### Result
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/29733871-3ac1-4a55-b719-530b0381a2be" />
-</div>
-
-### Configuration results on switch0 and switch1
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/44b4123e-d553-45bb-9ca4-751d48b2577c" />
-</div>
-
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/86a0efb0-4ce2-473f-b058-4e152f9245b5" />
+  <img width="600" alt="image" src="https://github.com/user-attachments/assets/ef677f5f-f7cb-4be7-8fe2-b83788165e1b" />
 </div>
 
 ### End results
