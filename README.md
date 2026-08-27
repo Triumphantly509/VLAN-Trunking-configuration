@@ -94,8 +94,17 @@ The same thing happens with VLAN 20 as well, VLAN 20 exists on switch3 & 4
 
 credit image: Kevin Wallace Training, LLC
 
-### fa0/3 interface configuration on Switch 0
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/3d190301-a956-4794-b71a-d9da9ee5e7b9" />
-</div>
+### The trunk link
+
+The Dashed link between the switches is the trunk link.
+
+A trunk is used to carry traffic belonging to multiple VLANs between switches.
+
+In this topology, the trunk carries VLAN 10 & VLAN 20.
+
+Without the trunk, VLAN 10 on Switch3 would be isolated from VLAN 10 on Switch4.
+
+Likewise, VLAN 20 on Switch3 would be isolated from VLAN 20 on Switch4.
+
+
 
