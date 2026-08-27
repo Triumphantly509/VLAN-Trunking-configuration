@@ -57,9 +57,9 @@ To configure VLANs on multiple switches, assign interfaces to the appropriate VL
   <img width="631" height="195" alt="image" src="https://github.com/user-attachments/assets/d6797b51-8299-42bb-a141-5e02cd680fe5" />
 </div>
 
-### Display vlan configuration on switch4
+## Display vlan configuration on switch4
 
-## Show Vlan brief result
+### Show Vlan brief result
 
 <div>
   <img width="678" height="240" alt="image" src="https://github.com/user-attachments/assets/f415ee96-7d3c-4c47-98d0-20056b3e53d7" />
