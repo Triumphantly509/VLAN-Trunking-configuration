@@ -100,7 +100,9 @@ The Dashed link between the switches is the trunk link.
 
 A trunk is used to carry traffic belonging to multiple VLANs between switches.
 
-In this topology, the trunk carries VLAN 10 & VLAN 20.
+In this topology, on switch3 fa0/2 is configures ad Desirable and on switch4: Auto.
+
+The trunk carries VLAN 10 & VLAN 20.
 
 Without the trunk, VLAN 10 on Switch3 would be isolated from VLAN 10 on Switch4.
 
