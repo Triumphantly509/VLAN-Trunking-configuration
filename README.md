@@ -35,7 +35,7 @@ To configure VLANs on multiple switches, assign interfaces to the appropriate VL
 
 ## Lab Topology
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/1363d58a-7979-4e48-bf12-adb0370ea314" />
+  <img width="1001" height="452" alt="image" src="https://github.com/user-attachments/assets/11914602-caa7-4496-b0f3-e17da8cda95a" />
 </div>
 
 ### Display vlan configuration on switch0
