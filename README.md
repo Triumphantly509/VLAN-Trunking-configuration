@@ -40,19 +40,19 @@ To configure VLANs on multiple switches, assign interfaces to the appropriate VL
 
 ### Display vlan configuration on switch3
 
-Show Vlan brief result
+## Show Vlan brief result
 
 <div>
   <img width="626" height="239" alt="image" src="https://github.com/user-attachments/assets/66730746-073f-4989-b0a2-73a7b603c11c" />
 </div>
 
-Show int fa0/2 switchport result
+## Show int fa0/2 switchport result
 
 <div>
   <img width="577" height="405" alt="image" src="https://github.com/user-attachments/assets/c998feb9-3111-4d71-b6b1-430b4e53e73e" />
 </div>
 
-show interface Trunk result
+## show interface Trunk result
 <div>
   <img width="631" height="195" alt="image" src="https://github.com/user-attachments/assets/d6797b51-8299-42bb-a141-5e02cd680fe5" />
 </div>
