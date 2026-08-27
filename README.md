@@ -75,8 +75,16 @@ To configure VLANs on multiple switches, assign interfaces to the appropriate VL
 <div>
   <img width="652" height="195" alt="image" src="https://github.com/user-attachments/assets/6a4a416c-4176-4735-aa3b-de7f132b93b1" />
 </div>
-### The issue
-PC1 in VLAN 20 on switch0 cannot communicate with PC3 in VLan 20 on switch 1
+
+### VLANS are Logical
+
+PC6 and PC10 are connected to different physical switches.
+
+PC6 is connected to switch3 vs PC10 is connected to switch4
+
+Both are in VLAN 10, VLAN10 exist in both switches.
+
+The same thing happens with VLAN 20 as well, VLAN 20 exists on switch3 & 4
 
 ### Why PCS in the same vlan but different switches cannot communicate?
 If the link between switches is not configured as trunk, the switch will only carry one VLAN (usually VLAN 1).
