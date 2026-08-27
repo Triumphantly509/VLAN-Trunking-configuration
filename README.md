@@ -57,31 +57,24 @@ To configure VLANs on multiple switches, assign interfaces to the appropriate VL
   <img width="631" height="195" alt="image" src="https://github.com/user-attachments/assets/d6797b51-8299-42bb-a141-5e02cd680fe5" />
 </div>
 
-### Create VLAN 1 and VLAN 20 on Switch0 and assign interfaces
+### Display vlan configuration on switch4
+
+## Show Vlan brief result
+
 <div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/b06b8a15-44b7-40e5-8df8-5f7976e1dced" />
+  <img width="678" height="240" alt="image" src="https://github.com/user-attachments/assets/f415ee96-7d3c-4c47-98d0-20056b3e53d7" />
 </div>
 
-### Result
+## Show int fa0/2 switchport result
+
 <div>
-  <img width="600"  alt="image" src="https://github.com/user-attachments/assets/47fad183-b531-40c3-9336-873217d24d18" />
+  <img width="877" height="368" alt="image" src="https://github.com/user-attachments/assets/2c23bdc9-8bee-4071-8706-ff65a020edeb" />
 </div>
 
-### Display vlan configuration on switch1
+## show interface Trunk result
 <div>
-  <img width="600" height="415" alt="image" src="https://github.com/user-attachments/assets/bbc49520-eadf-4a92-a360-521a686dffcf" />
+  <img width="652" height="195" alt="image" src="https://github.com/user-attachments/assets/6a4a416c-4176-4735-aa3b-de7f132b93b1" />
 </div>
-
-### Create VLAN 1 and VLAN 20 on Switch1 and assign interfaces
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/93cada64-0aa2-4483-9ce0-20ce68dcce6c" />
-</div>
-
-### Result
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/7b8210d1-ea36-46ca-ba35-7573d4b97b00" />
-</div>
-
 ### The issue
 PC1 in VLAN 20 on switch0 cannot communicate with PC3 in VLan 20 on switch 1
 
