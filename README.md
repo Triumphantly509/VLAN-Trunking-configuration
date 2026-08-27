@@ -86,6 +86,8 @@ Both are in VLAN 10, VLAN10 exist in both switches.
 
 The same thing happens with VLAN 20 as well, VLAN 20 exists on switch3 & 4
 
+### Trunking rules
+
 <div>
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/d4b9dcf0-3c8b-4b93-9149-9179fc99d362" />
 </div>
