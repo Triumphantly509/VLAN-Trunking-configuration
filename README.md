@@ -99,35 +99,3 @@ credit image: Kevin Wallace Training, LLC
   <img width="600" alt="image" src="https://github.com/user-attachments/assets/3d190301-a956-4794-b71a-d9da9ee5e7b9" />
 </div>
 
-### Allow vlan 1 and vlan 20 on switch 0
-<div>
-  <img width="600" height="175" alt="image" src="https://github.com/user-attachments/assets/9f558bc9-06fb-474a-9864-04c5fd5dad42" />
-
-</div>
-
- ### Result 
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/5af2689f-28c3-4ce7-8013-4fba95d514f0" />
-</div>
-
-
-### fa0/3 interface configuration on Switch 1
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/aa41527a-902b-499f-807d-b467cc98e78a" />
-</div>
-
-### Allow vlan 1-20 on switch 1 / dynamic desirable mode
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/4845bf98-a362-4852-99ff-0b3cf66a3f9a" />
-</div>
-
-### Result
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/ef677f5f-f7cb-4be7-8fe2-b83788165e1b" />
-</div>
-
-### End results
-Connectivity has been successfully established between PC1 (VLAN 20) on Switch 0 and PC3 (VLAN 20) on Switch 1.
-<div>
-  <img width="600" alt="image" src="https://github.com/user-attachments/assets/c2519f19-5af8-41d5-bfc3-1b69bb72a3dc" />
-</div>
